@@ -1,5 +1,6 @@
 # Solutions to DSA Challenge questions for Week 1, Friday. 
 Please check the below screenshots for the output of the programs.
+
 Problem1:-
 ![Output_for_problem1](https://github.com/user-attachments/assets/c9a3747e-1f85-45b7-b6c0-e30cd6f3c9eb)
 Problem2:-
