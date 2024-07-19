@@ -1,4 +1,4 @@
-# Solutions to 30 Days Of DSA questions for Week 1, Friday. 
+# 30 Days Of DSA - Task for Week 1, Friday. 
 Please check the below screenshots for the output of the programs.
 
 Problem1:-
