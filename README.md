@@ -1,4 +1,4 @@
-# Solutions to DSA Challenge questions for Week 1, Friday. 
+# Solutions to 30 days Of DSA by Hackingly questions for Week 1, Friday. 
 Please check the below screenshots for the output of the programs.
 
 Problem1:-
